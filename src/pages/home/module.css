@@ -1,0 +1,12 @@
+
+
+.featureInfoSection{
+    display: flex;
+    justify-content: space-around;
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+    
+}

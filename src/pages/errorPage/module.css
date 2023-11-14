@@ -1,0 +1,32 @@
+.errorContainer{
+    margin: auto;  
+    height: calc(100vh - 50px);
+    align-self: center;
+    margin: auto;
+    display: flex;
+}
+
+.errorContainerWrapper{
+    height: 150px;
+    width: 400px;
+    align-items : center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+}
+.errorTitleText{
+    font-weight: 600;
+    font-size: 22px;
+    text-align: center;
+}
+
+.errorTitleDesc{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.errorActionButton{
+    width: 150px;
+}

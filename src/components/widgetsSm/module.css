@@ -1,0 +1,45 @@
+.widgetsSm{
+    flex: 1;
+    padding: 15px;
+    margin-right: 20px;
+}
+.widgetSmTitle{
+    font-weight: 500;
+    font-size: 18px;
+}
+.widgetSmList{
+    margin: 0;
+    padding: 15px 0;
+}
+.widgetSmListItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+}
+.userInfoContainer{
+    display: flex;
+    flex-direction: column;
+}
+.widgetSmImg{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.usernameText{
+    font-weight: 400;
+    font-size: 16px;
+}
+.userJobTitleText{
+    font-weight: 300;
+    color: gray;
+    font-size: 14px;
+}
+
+.actionButton{
+    color: darkblue !important;
+    border: 1px solid darkblue !important;
+}

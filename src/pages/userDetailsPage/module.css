@@ -1,0 +1,85 @@
+
+.editUserPageSection{
+    padding: 24px;
+    margin: 24px;
+}
+.userTitleSection{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.title{
+    font-size: 21px;
+}
+
+.userInfoSection{
+    display: flex;
+}
+
+.userShow{
+    padding: 20px;
+    flex: 1;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.userUpdate{
+    padding: 20px;
+    flex: 2;
+}
+
+.userShowTop{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.userShowImg{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 14px;
+}
+
+.userShowTopTile{
+    display: flex;
+    flex-direction: column;
+}
+
+.showUserName{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.showUserJobRole{
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.titleSub{
+    font-weight: 500;
+    color: lightgray;
+    margin-top: 20px;
+}
+
+.userShowInfoBadge{
+    align-items: center;
+    display: flex;
+    color: gray;
+    margin-top: 18px;
+    font-weight: 300;
+}
+
+.userShowInfoIcon{
+    margin-right: 16px;
+}
+
+.editForm{
+    align-items: center;
+}
+
+.updateButton{
+    margin-top: 40px;
+}

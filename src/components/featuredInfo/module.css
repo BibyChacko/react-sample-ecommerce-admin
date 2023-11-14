@@ -1,0 +1,46 @@
+.featured{
+    border-radius: 8px;
+    flex: 1;
+    margin: 0 20px;
+}
+
+.featuredItem{
+    padding: 24px !important;
+}
+
+.featuredItemTitle{
+    font-size: 20px;
+
+}
+
+.featureValueDiv{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.featureValueAmount{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.featureValueChangePercent{
+    margin-left: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.changeIcon.positive{
+    font-size: 14px !important;
+    color: green;
+}
+
+.changeIcon.negative{
+    font-size: 14px !important;
+    color: red;
+}
+
+.featuredStatText{
+    font-size: 15px;
+    color: gray;
+}

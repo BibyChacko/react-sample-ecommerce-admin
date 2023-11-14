@@ -1,0 +1,19 @@
+.widgetsLg{
+    flex: 2;
+    padding: 20px;
+    
+}
+
+.lgContainerTitle{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.transactionTableTitle{
+    font-weight: 600 !important;
+}
+
+.transactionItemCell{
+    font-weight: 300 !important;
+    /* color: gray !important; */
+}
