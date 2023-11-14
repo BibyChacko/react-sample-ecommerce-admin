@@ -1,9 +1,9 @@
 # Screenshots from the application
 
-![Screenshot 1] media/s1.png
-![Screenshot 2] media/s2.png
-![Screenshot 3] media/s3.png
-![Screenshot 4] media/s4.png
+![Screenshot 1](media/s1.png)
+![Screenshot 2](media/s2.png)
+![Screenshot 3](media/s3.png)
+![Screenshot 4](media/s4.png)
 
 # Getting Started with Create React App
 
